@@ -1,6 +1,6 @@
 # Automated File Management System
 
-A Python-based tool that automatically organizes files by size with intelligent categorization, comprehensive logging, and rollback capabilities.
+A Python-based tool that automatically organizes files by file size with intelligent categorization, comprehensive logging, and rollback capabilities.
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 
