@@ -1,4 +1,4 @@
-# Automated File Management System
+# Automated File Management System by Size
 
 A Python-based tool that automatically organizes files by file size with intelligent categorization, comprehensive logging, and rollback capabilities.
 
