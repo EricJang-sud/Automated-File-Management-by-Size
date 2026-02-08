@@ -4,6 +4,10 @@ A Python-based tool that automatically organizes files by file size with intelli
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 
+<p align="center">
+  <img src="assets/Before-After Gemini.png" width="700">
+</p>
+
 ## The Problem
 
 You open your Downloads folder 📂: 3,247 files 🧾. 89GB used 💾. Somewhere in there are the large video files 🎥 eating your storage 🐘, but finding them means scrolling for 15 minutes ⏳. Manually sorting? 2+ hours 😵‍💫 of dragging 🖱️, dropping 📥, and second-guessing 🤔.
