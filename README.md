@@ -161,7 +161,7 @@ Downloads/
 
 ## 🚀 Quick Start
 
-**For technical implementation details, see [TECHNICAL.md](TECHNICAL.md)**
+**For technical implementation details, see [Technical Documentation](TECHNICAL.md)**
 
 ### What You Need:
 - Python 3.6 or higher installed
@@ -174,7 +174,7 @@ Downloads/
 3. Run one command
 4. Watch your files get organized in seconds
 
-**That's it!** Full technical instructions are in the [Technical Documentation](TECHNICAL.md).
+**That's it!** Full technical instructions are in the [Technical Documentation](Technical Documentation.md).
 
 ## 💡 Why This Project Matters
 
@@ -220,4 +220,4 @@ Built with Python's excellent standard library. No external dependencies require
 
 ---
 
-**Ready to implement?** See [TECHNICAL.md](TECHNICAL.md) for complete setup instructions.
+**Ready to implement?** See [Technical Documentation](Technical Documentation.md) for complete setup instructions.
