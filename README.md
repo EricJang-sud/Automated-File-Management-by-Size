@@ -5,6 +5,9 @@ A Python automation tool that organizes thousands of files by size in seconds, e
 <p align="center">
   <img src="assets/Before-After Gemini.png" width="700" alt="Before and After Comparison">
 </p>
+<p align="center">
+  Image credit: Gemini
+</p>
 
 ## 🎯 The Problem
 
