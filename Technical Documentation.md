@@ -474,7 +474,7 @@ A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the c
 
 ## Author
 
-**Eric Jang**
+- **Author:** Eric Jang
 - **Email:** thericman05@gmail.com
 - **LinkedIn:** Connect me [www.linkedin.com](https://www.linkedin.com/in/eric-jang666/)
 
