@@ -220,4 +220,4 @@ Built with Python's excellent standard library. No external dependencies require
 
 ---
 
-**Ready to implement?** See [Technical Documentation](Technical Documentation.md) for complete setup instructions.
+**Ready to implement?** See [Technical Documentation](Technical-Documentation.md) for complete setup instructions.
