@@ -1,6 +1,6 @@
 # Automated File Management System by Size - Technical Documentation
 
-## Quick Start
+## 🚀 Quick Start
 
 ### Prerequisites
 
@@ -52,7 +52,7 @@ cd file-management-system
 
 **3. Configure and run** (see Configuration section below)
 
-### Configuration
+## ⚙️ Configuration
 
 **1. Open `file_manager_pro.py` in any text editor**
 
@@ -85,7 +85,7 @@ FOLDER_PATH = "/path/to/folder/you/want/to/organize"
 
 **3. Save the file**
 
-### Running the Script
+## ▶️ Running the Script
 
 **Navigate to where you saved the script:**
 
@@ -127,7 +127,7 @@ python file_manager_pro.py --dry-run
 python file_manager_pro.py
 ```
 
-## Usage
+## 💻 Usage
 
 ### Basic Commands
 
@@ -152,11 +152,11 @@ python file_manager_pro.py "C:\Users\Name\Documents"  # Windows example
 python file_manager_pro.py ~/Desktop                   # Mac/Linux example
 ```
 
-### Complete Setup Tutorial (Portable Installation)
+## 📖 Complete Setup Tutorial (Portable Installation)
 
 This tutorial shows how to set up the script in a custom location and organize any folder.
 
-#### Step 1: Download and Save
+### Step 1: Download and Save
 
 > **Note:** The paths shown are examples. Choose **any location** that works for you.
 
@@ -174,7 +174,7 @@ This tutorial shows how to set up the script in a custom location and organize a
    - `/usr/local/bin/file_manager_pro.py`
    - `/opt/tools/file_manager_pro.py`
 
-#### Step 2: Configure Target Folder
+### Step 2: Configure Target Folder
 
 Open `file_manager_pro.py` in any text editor and modify line 15:
 
@@ -200,7 +200,7 @@ FOLDER_PATH = "/Users/John/Downloads"     # Mac/Linux
 
 > **Key Point:** The script location (e.g., `D:\Scripts\`) and target folder (e.g., `C:\Users\John\Documents`) can be completely different locations on different drives!
 
-#### Step 3: Run from Command Line
+### Step 3: Run from Command Line
 
 > **Note:** All paths below are examples. Replace with where you actually saved the script.
 
@@ -239,7 +239,7 @@ python /opt/tools/file_manager_pro.py --dry-run
 python ~/scripts/file_manager_pro.py
 ```
 
-#### Step 4: Verify Results
+### Step 4: Verify Results
 
 After running, check your target folder to see the organization.
 
@@ -267,7 +267,7 @@ Documents/
 
 The same organization structure applies to **any folder** you choose to organize.
 
-### Windows-Specific Examples
+## 🪟 Windows-Specific Examples
 
 > **Note:** Paths shown are examples. Replace with your actual script location and target folders.
 
@@ -284,7 +284,7 @@ python file_manager_pro.py "E:\Backup"
 python file_manager_pro.py "C:\Users\YourName\Desktop\Work Files"
 ```
 
-### Mac/Linux-Specific Examples
+## 🍎 Mac/Linux-Specific Examples
 
 > **Note:** Paths shown are examples. Replace with your actual script location and target folders.
 
@@ -305,7 +305,7 @@ chmod +x file_manager_pro.py
 ./file_manager_pro.py --dry-run
 ```
 
-## Example Output
+## 📊 Example Output
 
 Here's what you'll see when running the script:
 
@@ -358,7 +358,7 @@ Scanning directory: /Users/john/Downloads
 
 > **Note:** The log file is saved in the same directory as the script, not in the target folder being organized.
 
-## Configuration
+## 🎛️ Configuration Options
 
 All configuration options are at the top of `file_manager_pro.py`:
 
@@ -391,7 +391,7 @@ ALLOWED_EXTENSIONS = []            # Empty = all files
 EXCLUDED_FOLDERS = ['.git', 'node_modules']
 ```
 
-## Platform-Specific Notes
+## 🖥️ Platform-Specific Notes
 
 ### Windows
 - Use raw strings for paths: `r"C:\Users\Name\Downloads"` (note the `r` prefix)
@@ -408,7 +408,7 @@ EXCLUDED_FOLDERS = ['.git', 'node_modules']
 
 > **Remember:** All paths shown are examples. The script works with **any valid path** on your system.
 
-## Testing
+## 🧪 Testing
 
 Run the included test suite:
 
@@ -420,7 +420,7 @@ pip install pytest
 pytest test_file_manager.py -v
 ```
 
-## How It Works
+## ⚙️ How It Works
 
 1. **Scan:** Recursively scans the target directory
 2. **Categorize:** Groups files by size thresholds
@@ -430,7 +430,7 @@ pytest test_file_manager.py -v
 
 Files smaller than 1MB are never moved, keeping your directory clean while organizing only larger files.
 
-## Common Questions
+## ❓ Common Questions
 
 **Q: Can I organize folders other than Downloads?**  
 A: **Yes!** You can organize ANY folder on your system. Examples include Documents, Desktop, project folders, backup directories, external drives, or any custom location. Downloads is used in documentation examples only.
@@ -447,7 +447,7 @@ A: **No!** Files smaller than 1MB remain in their original location and are neve
 **Q: Can I change what "large" and "medium" mean?**  
 A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the configuration section.
 
-## Safety Features
+## 🛡️ Safety Features
 
 - **Dry-run mode:** Preview changes before execution
 - **Backup manifests:** JSON record of original file locations
@@ -456,7 +456,7 @@ A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the c
 - **Conflict handling:** Automatically renames duplicates
 - **Error recovery:** Continues operation on individual file errors
 
-## Troubleshooting
+## 🔧 Troubleshooting
 
 **Python not found:**
 - Windows: Reinstall Python and check "Add to PATH"
@@ -472,14 +472,16 @@ A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the c
 - Check FOLDER_PATH is correctly configured
 - Verify files meet size threshold (≥ 1MB)
 
-## Author
+## 👤 Author
 
 - **Author:** Eric Jang
 - **Email:** thericman05@gmail.com
-- **LinkedIn:** Connect me [www.linkedin.com](https://www.linkedin.com/in/eric-jang666/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/eric-jang666/)
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 Built with Python's standard library - no external dependencies required for core functionality.
 
-⭐ If you find this useful, please consider starring the repository!
+---
+
+⭐ **If you find this useful, please consider starring the repository!**
