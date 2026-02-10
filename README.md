@@ -6,8 +6,6 @@ A Python automation tool that organizes thousands of files by size in seconds, e
   <img src="assets/Before-After Gemini.png" width="700" alt="Before and After Comparison">
 </p>
 
----
-
 ## 🎯 The Problem
 
 You open your Downloads folder 📂: **3,247 files**. **89GB used** 💾. 
@@ -22,8 +20,6 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 - Project folders become unmanageable
 - Critical disk space issues go unnoticed until it's too late
 
----
-
 ## ✨ The Solution
 
 ⚡ **This script solves it in ~4 seconds.**
@@ -34,8 +30,6 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 - 📝 Every action is logged for a complete audit trail
 - 🔄 Includes rollback capability via backup manifests
 - 🔍 Preview mode lets you see changes before they happen
-
----
 
 ## 📊 Impact & Performance
 
@@ -56,7 +50,7 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 **Processing Speed:**
 - **3,247 files** organized in **~4 seconds**
 - **~800 files/second** throughput
-- Handles folders from **100 to 100,000+ files**
+- Handles folders from **a few to 100,000+ files**
 
 **Storage Impact:**
 - Quickly identifies files consuming **80% of disk space**
@@ -68,8 +62,6 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 - **10+ hours/month** for teams managing multiple projects
 - **120+ hours/year** per developer or IT professional
 
----
-
 ## 🛠️ About The Tool
 
 This tool automatically categorizes and organizes files in **any folder** based on configurable size thresholds:
@@ -80,8 +72,6 @@ This tool automatically categorizes and organizes files in **any folder** based 
 - **Files < 1MB** → Remain in original location (untouched)
 
 > All thresholds are fully customizable to meet your team's needs.
-
----
 
 ## 💼 Business Use Cases
 
@@ -109,8 +99,6 @@ This tool automatically categorizes and organizes files in **any folder** based 
 - ✅ Cross-platform: Windows, Mac, Linux
 - ✅ No installation required (portable Python script)
 
----
-
 ## 🎨 Key Features
 
 ### Core Functionality
@@ -134,8 +122,6 @@ This tool automatically categorizes and organizes files in **any folder** based 
 - 🎨 **Clear Output** - Color-coded status messages and formatted reports
 - 📦 **Zero Dependencies** - Uses only Python standard library
 - 🌍 **Cross-platform** - Windows, macOS, Linux compatible
-
----
 
 ## 📸 Example Results
 
@@ -173,35 +159,6 @@ Downloads/
 - ✅ **3,244 small files** left undisturbed in original locations
 - ✅ **Complete log** of all operations saved
 
----
-
-## 🏆 Technical Highlights
-
-### Software Engineering Best Practices
-- ✅ **Clean Code** - PEP 8 compliant, well-documented, type hints
-- ✅ **Error Handling** - Comprehensive exception management throughout
-- ✅ **Logging Infrastructure** - Production-ready logging with multiple handlers
-- ✅ **Unit Testing** - Comprehensive test suite with 85%+ coverage
-- ✅ **Documentation** - Clear README, inline comments, docstrings
-- ✅ **Version Control** - Git with semantic commits and branching strategy
-
-### Code Quality
-- ✅ **Object-Oriented Design** - Clean class structure with SOLID principles
-- ✅ **Design Patterns** - Strategy, Dependency Injection, Template Method
-- ✅ **Type Safety** - Type hints throughout for better IDE support
-- ✅ **Maintainability** - Modular, extensible, well-organized code
-- ✅ **Performance** - Optimized file operations, minimal I/O overhead
-
-### Production Readiness
-- ✅ **Input Validation** - Robust checks before execution
-- ✅ **Permission Checking** - Pre-flight validation of file system access
-- ✅ **Atomic Operations** - Safe file movements with conflict resolution
-- ✅ **Rollback Capability** - Backup manifests enable easy undo
-- ✅ **Performance Metrics** - Execution timing and statistics tracking
-- ✅ **Cross-platform** - Works on Windows, macOS, Linux without modification
-
----
-
 ## 🚀 Quick Start
 
 **For technical implementation details, see [TECHNICAL.md](TECHNICAL.md)**
@@ -218,8 +175,6 @@ Downloads/
 4. Watch your files get organized in seconds
 
 **That's it!** Full technical instructions are in the [Technical Documentation](TECHNICAL.md).
-
----
 
 ## 💡 Why This Project Matters
 
@@ -251,27 +206,17 @@ This project demonstrates:
 - **Agencies:** Client project organization
 - **Education:** Teaching automation concepts
 
----
-
 ## 📞 Author
 
 - **Author:** Eric Jang
 - **Email:** thericman05@gmail.com
 - **LinkedIn:** Connect me [www.linkedin.com](https://www.linkedin.com/in/eric-jang666/)
 
----
-
 ## 🙏 Acknowledgments
 
 Built with Python's excellent standard library. No external dependencies required for core functionality.
 
-Special thanks to the open-source community for inspiration and best practices.
-
----
-
-<p align="center">
-  <strong>⭐ If you find this useful, please consider starring the repository!</strong>
-</p>
+**⭐ If you find this useful, please consider starring the repository!**
 
 ---
 
