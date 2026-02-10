@@ -161,8 +161,6 @@ Downloads/
 
 ## 🚀 Quick Start
 
-**For technical implementation details, see [Technical Documentation](TECHNICAL.md)**
-
 ### What You Need:
 - Python 3.6 or higher installed
 - A folder you want to organize
@@ -174,7 +172,7 @@ Downloads/
 3. Run one command
 4. Watch your files get organized in seconds
 
-**That's it!** Full technical instructions are in the [Technical Documentation](Technical Documentation.md).
+**That's it!** Full technical instructions are in the [Technical Documentation](Technical-Documentation.md).
 
 ## 💡 Why This Project Matters
 
