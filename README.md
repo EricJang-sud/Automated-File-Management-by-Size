@@ -61,29 +61,29 @@ This tool automatically categorizes and organizes files in **any folder** based 
 
 ## 💼 Business Use Cases
 
-### For Software Development Teams:
-- ✅ Clean up cluttered Downloads folders
-- ✅ Organize project directories by asset size
-- ✅ Identify large dependencies and build artifacts
-- ✅ Manage test data and fixtures
+### 🖥️ IT Teams
+- :white_check_mark: Quickly identify large files consuming critical disk space  
+- :white_check_mark: Prepare servers and shared drives for audits or migration  
+- :white_check_mark: Reduce manual storage cleanup tasks  
+- :white_check_mark: Improve visibility into storage usage patterns  
 
-### For IT/DevOps:
-- ✅ Sort backup files by size for storage optimization
-- ✅ Audit server directories for space hogs
-- ✅ Organize logs and diagnostic files
-- ✅ Prepare data for archival or migration
+### 📊 Data & Analytics Teams
+- :white_check_mark: Organize datasets and exports by size for easier access  
+- :white_check_mark: Identify oversized files impacting performance  
+- :white_check_mark: Structure shared research folders more efficiently  
+- :white_check_mark: Maintain cleaner, more navigable project directories  
 
-### For Data/Analytics Teams:
-- ✅ Categorize dataset collections
-- ✅ Organize media libraries (video, images, audio)
-- ✅ Manage research data and exports
-- ✅ Structure data warehouses by file size
+### 🏢 Office Roles
+- :white_check_mark: Clean up cluttered shared drives and Downloads folders  
+- :white_check_mark: Locate large presentations, videos, or reports instantly  
+- :white_check_mark: Reduce time spent manually sorting files  
+- :white_check_mark: Keep project folders organized and professional  
 
-### For General Productivity:
-- ✅ Organize any folder on any system
-- ✅ External drives and network shares
-- ✅ Cross-platform: Windows, Mac, Linux
-- ✅ No installation required (portable Python script)
+### ⚡ General Productivity
+- :white_check_mark: Organize any personal or shared folder in seconds  
+- :white_check_mark: Free up storage space without guesswork  
+- :white_check_mark: Reduce digital clutter and improve workflow focus  
+- :white_check_mark: Create a repeatable system for ongoing file management  
 
 ## 🎨 Key Features
 
@@ -91,13 +91,11 @@ This tool automatically categorizes and organizes files in **any folder** based 
 - 🎯 **Intelligent Categorization** - Automatically sorts by configurable size thresholds
 - 📊 **Real-time Analytics** - File type distribution, size statistics, processing metrics
 - 📝 **Comprehensive Logging** - Full audit trail with timestamps and operation details
-- 💾 **Backup Manifests** - JSON records of all changes for easy rollback
 - 🔍 **Dry-run Mode** - Preview all changes before execution (risk-free testing)
 
 ### User Experience
 - 🎛️ **Flexible Configuration** - All settings in one easy-to-edit section
 - 💬 **Interactive CLI** - User-friendly command-line interface
-- 🎨 **Clear Output** - Color-coded status messages and formatted reports
 - 📦 **Zero Dependencies** - Uses only Python standard library
 - 🌍 **Cross-platform** - Windows, macOS, Linux compatible
 
