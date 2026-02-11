@@ -48,23 +48,6 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 | 💰 **Cost Impact**      | Developer time burned on cleanup          | **Automated, repeatable**             |
 | ☕ **Developer Time**   | Wasted on manual tasks                    | **Available for value-add work**      |
 
-### 📈 Real-World Metrics
-
-**Processing Speed:**
-- **3,247 files** organized in **~4 seconds**
-- **~800 files/second** throughput
-- Handles folders from **a few to 100,000+ files**
-
-**Storage Optimization:**
-- Quickly identifies files consuming **80% of disk space**
-- Helps teams reclaim **gigabytes of unnecessary storage**
-- Enables proactive capacity planning
-
-**Time Savings:**
-- **1 hour saved** per cleanup session (conservative estimate)
-- **10+ hours/month** for teams managing multiple projects
-- **120+ hours/year** per developer or IT professional
-
 ## 🛠️ About The Tool
 
 This tool automatically categorizes and organizes files in **any folder** based on configurable size thresholds:
@@ -110,14 +93,6 @@ This tool automatically categorizes and organizes files in **any folder** based 
 - 📝 **Comprehensive Logging** - Full audit trail with timestamps and operation details
 - 💾 **Backup Manifests** - JSON records of all changes for easy rollback
 - 🔍 **Dry-run Mode** - Preview all changes before execution (risk-free testing)
-
-### Advanced Capabilities
-- 🎨 **Customizable Filters** - Whitelist/blacklist file types and folders
-- 🔄 **Recursive Scanning** - Process nested directory structures
-- ⚡ **High Performance** - Handles 100,000+ files efficiently
-- 🛡️ **Error Handling** - Robust exception management, graceful degradation
-- 🔐 **Permission Validation** - Pre-flight checks prevent runtime failures
-- 📈 **Execution Metrics** - Performance monitoring and timing statistics
 
 ### User Experience
 - 🎛️ **Flexible Configuration** - All settings in one easy-to-edit section
@@ -176,36 +151,6 @@ Downloads/
 4. Watch your files get organized in seconds
 
 **That's it!** Full technical instructions are in the [Technical Documentation](Technical-Documentation.md).
-
-## 💡 Why This Project Matters
-
-This project demonstrates:
-
-**1. Problem-Solving Ability**
-- Identified a real productivity pain point
-- Developed an automated solution that saves hours
-- Measurable ROI: 2 hours → 4 seconds
-
-**2. Technical Proficiency**
-- Production-quality Python code
-- Software engineering best practices
-- Modern development workflow (Git, testing, documentation)
-
-**3. Business Value Mindset**
-- Understands time as a resource
-- Focuses on automation and efficiency
-- Creates reusable, scalable tools
-
-**4. Professional Development**
-- Comprehensive documentation
-- User-focused design
-- Portfolio-ready presentation
-
-### Real-World Applications:
-- **Startups:** Developer productivity tool
-- **Enterprises:** IT automation for storage management
-- **Agencies:** Client project organization
-- **Education:** Teaching automation concepts
 
 ## 📞 Author
 
