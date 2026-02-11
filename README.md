@@ -55,7 +55,7 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 - **~800 files/second** throughput
 - Handles folders from **a few to 100,000+ files**
 
-**Storage Impact:**
+**Storage Optimization:**
 - Quickly identifies files consuming **80% of disk space**
 - Helps teams reclaim **gigabytes of unnecessary storage**
 - Enables proactive capacity planning
@@ -78,7 +78,7 @@ This tool automatically categorizes and organizes files in **any folder** based 
 
 ## 💼 Business Use Cases
 
-### For Development Teams:
+### For Software Development Teams:
 - ✅ Clean up cluttered Downloads folders
 - ✅ Organize project directories by asset size
 - ✅ Identify large dependencies and build artifacts
