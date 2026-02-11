@@ -61,29 +61,14 @@ This tool automatically categorizes and organizes files in **any folder** based 
 
 ## 💼 Business Use Cases
 
-### 🖥️ IT Teams
-- :white_check_mark: Quickly identify large files consuming critical disk space  
-- :white_check_mark: Prepare servers and shared drives for audits or migration  
-- :white_check_mark: Reduce manual storage cleanup tasks  
-- :white_check_mark: Improve visibility into storage usage patterns  
+This automation tool is applicable across industries where teams manage large volumes of digital files:
 
-### 📊 Data & Analytics Teams
-- :white_check_mark: Organize datasets and exports by size for easier access  
-- :white_check_mark: Identify oversized files impacting performance  
-- :white_check_mark: Structure shared research folders more efficiently  
-- :white_check_mark: Maintain cleaner, more navigable project directories  
+- :white_check_mark: **IT & Technology** – Managing logs, downloads, backups, and system storage directories  
+- :white_check_mark: **Data & Analytics** – Organizing datasets, exports, and large research files for easier access  
+- :white_check_mark: **Corporate & Office Environments** – Maintaining clean shared drives, project folders, and reporting assets  
+- :white_check_mark: **Creative & Media Industries** – Structuring large video, image, and production files for faster retrieval  
+- :white_check_mark: **General Productivity Users** – Keeping personal or shared folders organized while reducing digital clutter  
 
-### 🏢 Office Roles
-- :white_check_mark: Clean up cluttered shared drives and Downloads folders  
-- :white_check_mark: Locate large presentations, videos, or reports instantly  
-- :white_check_mark: Reduce time spent manually sorting files  
-- :white_check_mark: Keep project folders organized and professional  
-
-### ⚡ General Productivity
-- :white_check_mark: Organize any personal or shared folder in seconds  
-- :white_check_mark: Free up storage space without guesswork  
-- :white_check_mark: Reduce digital clutter and improve workflow focus  
-- :white_check_mark: Create a repeatable system for ongoing file management  
 
 ## 🎨 Key Features
 
@@ -135,6 +120,13 @@ Downloads/
 - ✅ **3,244 small files** left undisturbed in original locations
 - ✅ **Complete log** of all operations saved
 
+## 💡 Why This Project Matters
+
+1. Demonstrates the ability to transform everyday operational problems into measurable efficiency gains
+2. Utilises automation tools like Python to reduce repetitive manual work and allow more effort on high-level tasks
+3. Highlights a business-impact mindset by focusing on time savings, accuracy, and operational visibility
+4. Showcases readiness to contribute to data, operations, and process-improvement initiatives from day one  
+
 ## 🚀 Quick Start
 
 ### What You Need:
@@ -152,9 +144,9 @@ Downloads/
 
 ## 📞 Author
 
-- **Author:** Eric Jang
-- **Email:** thericman05@gmail.com
-- **LinkedIn:** Connect me [www.linkedin.com](https://www.linkedin.com/in/eric-jang666/)
+1. **Author:** Eric Jang
+2. **Email:** thericman05@gmail.com
+3. **LinkedIn:** Connect me [www.linkedin.com](https://www.linkedin.com/in/eric-jang666/)
 
 ## 🙏 Acknowledgments
 
