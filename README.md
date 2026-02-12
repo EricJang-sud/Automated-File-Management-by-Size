@@ -135,9 +135,11 @@ This project reflects practical skills relevant to data analytics, operations, a
 ## 🚀 Quick Start
 
 ### What You Need:
+- A laptop or desktop 
 - Python 3.6 or higher installed
 - A folder you want to organize
 - 5 minutes of your time
+- An external hard drive (optional)
 
 ### What Happens:
 1. Download the script
