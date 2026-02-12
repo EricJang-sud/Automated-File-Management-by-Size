@@ -34,9 +34,7 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 - 🔄 Includes rollback capability via backup manifests
 - 🔍 Preview mode lets you see changes before they happen
 
-## 📊 Impact & Performance
-
-### ⏱️ Before vs After
+## ⏱️ Impact: Before vs After
 
 |                    | ❌ Before (Manual)                         | ✅ After (Automated)                  |
 |--------------------|--------------------------------------------|---------------------------------------|
@@ -72,6 +70,8 @@ This automation tool is applicable across industries where teams manage large vo
 
 ## 🎨 Key Features
 
+The following key features highlight the tool’s core capabilities, usability, and reliability in organizing files efficiently across different IT environments.
+
 ### Core Functionality
 - 🎯 **Intelligent Categorization** - Automatically sorts by configurable size thresholds
 - 📊 **Real-time Analytics** - File type distribution, size statistics, processing metrics
@@ -84,7 +84,9 @@ This automation tool is applicable across industries where teams manage large vo
 - 📦 **Zero Dependencies** - Uses only Python standard library
 - 🌍 **Cross-platform** - Windows, macOS, Linux compatible
 
-## 📸 Example Results
+## 📸 Proof of Results
+
+An example of demonstrating how the automation reorganises a cluttered folder by automatically grouping large files into clearly labelled size-based directories while leaving smaller files untouched.
 
 ### Before: Chaos
 ```
@@ -120,12 +122,15 @@ Downloads/
 - ✅ **3,244 small files** left undisturbed in original locations
 - ✅ **Complete log** of all operations saved
 
-## 💡 Why This Project Matters
+## 💡 Roles & Skills Demonstrated
 
-1. Demonstrates the ability to transform everyday operational problems into measurable efficiency gains
-2. Utilises automation tools like Python to reduce repetitive manual work and allow more effort on high-level tasks
-3. Highlights a business-impact mindset by focusing on time savings, accuracy, and operational visibility
-4. Showcases readiness to contribute to data, operations, and process-improvement initiatives from day one  
+This project reflects practical skills relevant to data analytics, operations, and business-focused technical roles:
+
+- **Data handling & automation:** Built a solution that processes thousands of files efficiently and consistently  
+- **Problem solving:** Identified a common productivity issue and designed a scalable, repeatable solution  
+- **Analytical thinking:** Measured performance improvements and translated results into business impact metrics  
+- **Process improvement mindset:** Reduced manual work through automation and structured workflows  
+- **Documentation & communication:** Created clear, user-focused documentation for both technical and non-technical users  
 
 ## 🚀 Quick Start
 
@@ -140,7 +145,7 @@ Downloads/
 3. Run one command
 4. Watch your files get organized in seconds
 
-**That's it!** Full technical instructions are in the [Technical Documentation](Technical-Documentation.md).
+**That's it!** Full technical instructions are in [Technical Documentation](Technical-Documentation.md).
 
 ## 📞 Author
 
