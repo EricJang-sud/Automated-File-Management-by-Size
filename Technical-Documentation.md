@@ -1,5 +1,9 @@
 # Automated File Management System by Size - Technical Documentation
 
+![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
