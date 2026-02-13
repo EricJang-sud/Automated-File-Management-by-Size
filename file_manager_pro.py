@@ -40,8 +40,8 @@ ALLOWED_EXTENSIONS = []
 # Exclude specific folders from scanning
 EXCLUDED_FOLDERS = ['.git', 'node_modules', '__pycache__', '.vscode']
 
-# ============================================================================
-# DO NOT EDIT BELOW THIS LINE
+# ===== END OF USER INPUT ====================================================
+# Do not modify code below unless you understand the implementation.
 # ============================================================================
 
 import os
