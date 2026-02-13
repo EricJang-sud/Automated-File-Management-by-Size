@@ -25,7 +25,7 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 
 ## ✨ The Solution
 
-⚡ **This script solves it in ~4 seconds.**
+⚡ **This Python automation tool solves it in ~4 seconds.**
 
 ✅ **What it does:**
 - 📦 Large files are automatically organized into size-based folders
