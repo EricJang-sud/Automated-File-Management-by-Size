@@ -88,7 +88,7 @@ The following key features highlight the tool’s core capabilities, usability, 
 
 An example of demonstrating how the automation reorganises a cluttered folder by automatically grouping large files into clearly labelled size-based directories while leaving smaller files untouched.
 
-### Before: Chaos
+#### Before: Chaos
 ```
 Downloads/
 ├── vacation_video_final_v3.mp4 (2.5 GB)
@@ -101,7 +101,7 @@ Downloads/
 └── ... 3,240 more files
 ```
 
-### After: Organized
+#### After: Organized
 ```
 Downloads/
 ├── above 1GB/
@@ -134,14 +134,14 @@ This project reflects practical skills relevant to data analytics, operations, a
 
 ## 🚀 Quick Start
 
-### What You Need:
+#### What You Need:
 - A laptop or desktop 
 - Python 3.6 or higher installed
 - A folder you want to organize
 - 5 minutes of your time
 - An external hard drive (optional)
 
-### What Happens:
+#### What Happens:
 1. Download the script
 2. Edit one line to set your target folder
 3. Run one command
