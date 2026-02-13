@@ -52,6 +52,7 @@ cd file-management-system
 
 **3. Configure and run** (see Configuration section below)
 
+---
 ## ⚙️ Configuration
 
 **1. Open `file_manager_pro.py` in any text editor**
@@ -85,6 +86,7 @@ FOLDER_PATH = "/path/to/folder/you/want/to/organize"
 
 **3. Save the file**
 
+---
 ## ▶️ Running the Script
 
 **Navigate to where you saved the script:**
@@ -127,6 +129,7 @@ python file_manager_pro.py --dry-run
 python file_manager_pro.py
 ```
 
+---
 ## 💻 Usage
 
 ### Basic Commands
@@ -152,6 +155,7 @@ python file_manager_pro.py "C:\Users\Name\Documents"  # Windows example
 python file_manager_pro.py ~/Desktop                   # Mac/Linux example
 ```
 
+---
 ## 📖 Complete Setup Tutorial (Portable Installation)
 
 This tutorial shows how to set up the script in a custom location and organize any folder.
@@ -267,6 +271,7 @@ Documents/
 
 The same organization structure applies to **any folder** you choose to organize.
 
+---
 ## 🪟 Windows-Specific Examples
 
 > **Note:** Paths shown are examples. Replace with your actual script location and target folders.
@@ -284,6 +289,7 @@ python file_manager_pro.py "E:\Backup"
 python file_manager_pro.py "C:\Users\YourName\Desktop\Work Files"
 ```
 
+---
 ## 🍎 Mac/Linux-Specific Examples
 
 > **Note:** Paths shown are examples. Replace with your actual script location and target folders.
@@ -305,6 +311,7 @@ chmod +x file_manager_pro.py
 ./file_manager_pro.py --dry-run
 ```
 
+---
 ## 📊 Example Output
 
 Here's what you'll see when running the script:
@@ -358,6 +365,7 @@ Scanning directory: /Users/john/Downloads
 
 > **Note:** The log file is saved in the same directory as the script, not in the target folder being organized.
 
+---
 ## 🎛️ Configuration Options
 
 All configuration options are at the top of `file_manager_pro.py`:
@@ -391,6 +399,7 @@ ALLOWED_EXTENSIONS = []            # Empty = all files
 EXCLUDED_FOLDERS = ['.git', 'node_modules']
 ```
 
+---
 ## 🖥️ Platform-Specific Notes
 
 ### Windows
@@ -408,6 +417,7 @@ EXCLUDED_FOLDERS = ['.git', 'node_modules']
 
 > **Remember:** All paths shown are examples. The script works with **any valid path** on your system.
 
+---
 ## 🧪 Testing
 
 Run the included test suite:
@@ -420,6 +430,7 @@ pip install pytest
 pytest test_file_manager.py -v
 ```
 
+---
 ## ⚙️ How It Works
 
 1. **Scan:** Recursively scans the target directory
@@ -430,6 +441,7 @@ pytest test_file_manager.py -v
 
 Files smaller than 1MB are never moved, keeping your directory clean while organizing only larger files.
 
+---
 ## ❓ Common Questions
 
 **Q: Can I organize folders other than Downloads?**  
@@ -447,6 +459,7 @@ A: **No!** Files smaller than 1MB remain in their original location and are neve
 **Q: Can I change what "large" and "medium" mean?**  
 A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the configuration section.
 
+---
 ## 🛡️ Safety Features
 
 - **Dry-run mode:** Preview changes before execution
@@ -456,6 +469,7 @@ A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the c
 - **Conflict handling:** Automatically renames duplicates
 - **Error recovery:** Continues operation on individual file errors
 
+---
 ## 🔧 Troubleshooting
 
 **Python not found:**
@@ -472,12 +486,14 @@ A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the c
 - Check FOLDER_PATH is correctly configured
 - Verify files meet size threshold (≥ 1MB)
 
+---
 ## 👤 Author
 
 - **Author:** Eric Jang
 - **Email:** thericman05@gmail.com
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/eric-jang666/)
 
+---
 ## 🙏 Acknowledgments
 
 Built with Python's standard library - no external dependencies required for core functionality.
