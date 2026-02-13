@@ -147,7 +147,7 @@ This project reflects practical skills relevant to data analytics, operations, a
 3. Run one command
 4. Watch your files get organized in seconds
 
-**That's it!** Full technical instructions are in [Technical Documentation](Technical-Documentation.md).
+*Full technical instructions are in [Technical Documentation](Technical-Documentation.md).*
 
 ## 📞 Author
 
