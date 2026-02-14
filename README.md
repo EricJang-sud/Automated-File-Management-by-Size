@@ -72,15 +72,11 @@ This automation tool is applicable across industries where teams manage large vo
 
 The following key features highlight the tool’s core capabilities, usability, and reliability in organizing files efficiently across different IT environments.
 
-#### Core Functionality
 - 🎯 **Intelligent Categorization** - Automatically sorts by configurable size thresholds
 - 📊 **Real-time Analytics** - File type distribution, size statistics, processing metrics
 - 📝 **Comprehensive Logging** - Full audit trail with timestamps and operation details
 - 🔍 **Dry-run Mode** - Preview all changes before execution (risk-free testing)
-
-#### User Experience
 - 🎛️ **Flexible Configuration** - All settings in one easy-to-edit section
-- 💬 **Interactive CLI** - User-friendly command-line interface
 - 📦 **Zero Dependencies** - Uses only Python standard library
 - 🌍 **Cross-platform** - Windows, macOS, Linux compatible
 
