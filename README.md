@@ -75,6 +75,7 @@ The following key features highlight the tool’s core capabilities, usability, 
 - 🎯 **Intelligent Categorization** - Automatically sorts by configurable size thresholds
 - 📊 **Real-time Analytics** - File type distribution, size statistics, processing metrics
 - 📝 **Comprehensive Logging** - Full audit trail with timestamps and operation details
+- 💬 **Interactive CLI** - User-friendly command-line interface
 - 🔍 **Dry-run Mode** - Preview all changes before execution (risk-free testing)
 - 🎛️ **Flexible Configuration** - All settings in one easy-to-edit section
 - 📦 **Zero Dependencies** - Uses only Python standard library
