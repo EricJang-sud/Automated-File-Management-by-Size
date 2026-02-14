@@ -97,7 +97,9 @@ FOLDER_PATH = "/path/to/folder/you/want/to/organize"
 
 > **Note:** The paths below are examples only. Replace with your actual location - the script can be saved and run from **any drive or folder** on your system.
 
-**Windows:**
+<details>
+<summary><b>🪟 Windows</b></summary>
+
 ```cmd
 # Example if saved to D:\Scripts\ (replace with your actual path)
 D:
@@ -110,8 +112,10 @@ python "D:\Scripts\file_manager_pro.py" --dry-run
 python "C:\MyFolder\file_manager_pro.py" --dry-run
 python "E:\Tools\Python Scripts\file_manager_pro.py" --dry-run
 ```
+</details>
 
-**Mac/Linux:**
+<details>
+<summary><b>🍎 macOS/🐧 Linux</b></summary>
 ```bash
 # Example if saved to ~/scripts/ (replace with your actual path)
 cd ~/scripts
@@ -123,6 +127,7 @@ python ~/scripts/file_manager_pro.py --dry-run
 python /usr/local/bin/file_manager_pro.py --dry-run
 python /Volumes/ExternalDrive/tools/file_manager_pro.py --dry-run
 ```
+</details>
 
 **Run commands:**
 ```bash
@@ -276,7 +281,10 @@ Documents/
 The same organization structure applies to **any folder** you choose to organize.
 
 ---
-## 🪟 Windows-Specific Examples
+## Platform-Specific Examples
+
+<details>
+<summary><b>🪟 Windows</b></summary>
 
 > **Note:** Paths shown are examples. Replace with your actual script location and target folders.
 
@@ -293,8 +301,10 @@ python file_manager_pro.py "E:\Backup"
 python file_manager_pro.py "C:\Users\YourName\Desktop\Work Files"
 ```
 
----
-## 🍎 Mac/Linux-Specific Examples
+</details>
+
+<details>
+<summary><b>🍎 macOS</b></summary>
 
 > **Note:** Paths shown are examples. Replace with your actual script location and target folders.
 
@@ -314,6 +324,31 @@ python file_manager_pro.py ~/Desktop/ProjectFiles
 chmod +x file_manager_pro.py
 ./file_manager_pro.py --dry-run
 ```
+
+</details>
+
+<details>
+<summary><b>🐧 Linux</b></summary>
+
+> **Note:** Paths shown are examples. Replace with your actual script location and target folders.
+
+```bash
+# Navigate to where you saved/cloned (example locations)
+cd /path/to/file-management-system
+cd ~/projects/file-manager
+cd /opt/tools/automation
+
+# Run with any Unix path (examples - use your actual folders)
+python file_manager_pro.py ~/Downloads
+python file_manager_pro.py ~/Documents
+python file_manager_pro.py ~/Desktop/ProjectFiles
+
+# Make executable (optional)
+chmod +x file_manager_pro.py
+./file_manager_pro.py --dry-run
+```
+
+</details>
 
 ---
 ## 📊 Example Output
@@ -406,18 +441,37 @@ EXCLUDED_FOLDERS = ['.git', 'node_modules']
 ---
 ## 🖥️ Platform-Specific Notes
 
-### Windows
+<details>
+<summary><b>🪟 Windows</b></summary>
+
 - Use raw strings for paths: `r"C:\Users\Name\Downloads"` (note the `r` prefix)
 - Run from Command Prompt or PowerShell
 - Python must be in PATH (check "Add Python to PATH" during installation)
 - Example paths: `r"D:\Scripts\"`, `r"C:\Tools\"`, `r"E:\My Folder\"`
 
-### Mac/Linux
+</details>
+
+<details>
+<summary><b>🍎 macOS</b></summary>
+
 - Use forward slashes: `/Users/Name/Downloads`
 - Can use `~` for home directory: `~/Downloads`, `~/Documents`
 - May need to run with `python3` instead of `python`
 - Can make executable with `chmod +x file_manager_pro.py`
 - Example paths: `~/scripts/`, `/opt/tools/`, `/usr/local/bin/`
+
+</details>
+
+<details>
+<summary><b>🐧 Linux</b></summary>
+
+- Use forward slashes: `/home/username/Downloads`
+- Can use `~` for home directory: `~/Downloads`, `~/Documents`
+- May need to run with `python3` instead of `python`
+- Can make executable with `chmod +x file_manager_pro.py`
+- Example paths: `~/scripts/`, `/opt/tools/`, `/usr/local/bin/`
+
+</details>
 
 > **Remember:** All paths shown are examples. The script works with **any valid path** on your system.
 
