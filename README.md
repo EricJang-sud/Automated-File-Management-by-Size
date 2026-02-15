@@ -67,7 +67,6 @@ This automation tool is applicable across industries where teams manage large vo
 - :white_check_mark: **Creative & Media Industries** – Structuring large video, image, and production files for faster retrieval  
 - :white_check_mark: **General Productivity Users** – Keeping personal or shared folders organized while reducing digital clutter  
 
-
 ## 🎨 Key Features
 
 The following key features highlight the tool’s core capabilities, usability, and reliability in organizing files efficiently across different IT environments.
