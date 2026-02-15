@@ -6,7 +6,7 @@ A Python automation tool that instantly organizes your files into size-based fol
 
 ---
 
-## ⚙️ How The Tool Works
+## ⚙️ How The Python Tool Works
 
 1. **Scan:** Recursively scans the target directory
 2. **Categorize:** Groups files by size thresholds
