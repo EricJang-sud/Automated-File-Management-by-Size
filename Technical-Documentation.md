@@ -1,8 +1,20 @@
 # Automated File Management System by Size - Technical Documentation
 
+A Python automation tool that instantly organizes your files into size-based folders, turning messy storage into a clean, structured system in seconds.
+
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
 
 ---
+
+## ⚙️ How The Tool Works
+
+1. **Scan:** Recursively scans the target directory
+2. **Categorize:** Groups files by size thresholds
+3. **Filter:** Applies configured filters and exclusions
+4. **Organize:** Moves files to appropriate folders
+5. **Log:** Records all operations with timestamps
+
+Files smaller than 1MB are never moved, keeping your directory clean while organizing only larger files.
 
 ## 🚀 Quick Start
 
@@ -486,33 +498,6 @@ pip install pytest
 pytest test_file_manager.py -v
 ```
 
-## ⚙️ How It Works
-
-1. **Scan:** Recursively scans the target directory
-2. **Categorize:** Groups files by size thresholds
-3. **Filter:** Applies configured filters and exclusions
-4. **Organize:** Moves files to appropriate folders
-5. **Log:** Records all operations with timestamps
-
-Files smaller than 1MB are never moved, keeping your directory clean while organizing only larger files.
-
-## ❓ Common Questions
-
-**Q: Can I organize folders other than Downloads?**  
-A: **Yes!** You can organize ANY folder on your system. Examples include Documents, Desktop, project folders, backup directories, external drives, or any custom location. Downloads is used in documentation examples only.
-
-**Q: Does the script need to be in the same location as the folder I'm organizing?**  
-A: **No!** The script can be anywhere. For example, the script can be in `D:\Scripts\` while organizing `C:\Users\YourName\Documents\`. They can even be on different drives.
-
-**Q: Can I use this on an external drive?**  
-A: **Yes!** Works on external drives, network drives, or any accessible location.
-
-**Q: Will small files be deleted?**  
-A: **No!** Files smaller than 1MB remain in their original location and are never moved.
-
-**Q: Can I change what "large" and "medium" mean?**  
-A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the configuration section.
-
 ## 🛡️ Safety Features
 
 - **Dry-run mode:** Preview changes before execution
@@ -537,6 +522,23 @@ A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the c
 - Ensure you're not using `--dry-run` flag
 - Check FOLDER_PATH is correctly configured
 - Verify files meet size threshold (≥ 1MB)
+
+## ❓ Common Questions
+
+**Q: Can I organize folders other than Downloads?**  
+A: **Yes!** You can organize ANY folder on your system. Examples include Documents, Desktop, project folders, backup directories, external drives, or any custom location. Downloads is used in documentation examples only.
+
+**Q: Does the script need to be in the same location as the folder I'm organizing?**  
+A: **No!** The script can be anywhere. For example, the script can be in `D:\Scripts\` while organizing `C:\Users\YourName\Documents\`. They can even be on different drives.
+
+**Q: Can I use this on an external drive?**  
+A: **Yes!** Works on external drives, network drives, or any accessible location.
+
+**Q: Will small files be deleted?**  
+A: **No!** Files smaller than 1MB remain in their original location and are never moved.
+
+**Q: Can I change what "large" and "medium" mean?**  
+A: **Yes!** Edit the `SIZE_THRESHOLD_MB` and `SIZE_THRESHOLD_GB` values in the configuration section.
 
 ---
 ## 👤 Author
