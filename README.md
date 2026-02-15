@@ -1,5 +1,7 @@
 # Automated File Management System by Size
 
+A Python automation tool that instantly organizes your files into size-based folders, turning messy storage into a clean, structured system in seconds.
+
 <p align="center">
   <img src="assets/Before-After Gemini.png" width="700" alt="Before and After Comparison">
 </p>
@@ -8,8 +10,6 @@
 </p>
 
 ## 🎯 The Problem
-
-A Python automation tool that instantly organizes your files into size-based folders, turning messy storage into a clean, structured system in seconds.
 
 You open your Downloads folder 📂: **3,247 files**. **89GB used** 💾. 
 
