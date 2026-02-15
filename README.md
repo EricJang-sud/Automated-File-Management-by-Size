@@ -25,7 +25,14 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 
 ## ✨ The Solution
 
-⚡ **This Python automation tool solves it in ~4 seconds.**
+⚡ **The Python automation tool solves it from hours to ~4 seconds.** This tool automatically categorizes and organizes files in **any folder** based on configurable size thresholds:
+
+**Default Organization:**
+- **Files ≥ 1GB** → `above 1GB` folder
+- **Files 1MB-1GB** → `1MB-1GB` folder
+- **Files < 1MB** → Remain in original location (untouched)
+
+> All thresholds are fully customizable to meet you and your team's needs.
 
 ✅ **What it does:**
 - 📦 Large files are automatically organized into size-based folders
@@ -33,6 +40,19 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 - 📝 Every action is logged for a complete audit trail
 - 🔄 Includes rollback capability via backup manifests
 - 🔍 Preview mode lets you see changes before they happen
+
+**Key Features**
+
+The following key features highlight the tool’s core capabilities, usability, and reliability in organizing files efficiently across different IT environments.
+
+- 🎯 **Intelligent Categorization** - Automatically sorts by configurable size thresholds
+- 📊 **Real-time Analytics** - File type distribution, size statistics, processing metrics
+- 📝 **Comprehensive Logging** - Full audit trail with timestamps and operation details
+- 💬 **Interactive CLI** - User-friendly command-line interface
+- 🔍 **Dry-run Mode** - Preview all changes before execution (risk-free testing)
+- 🎛️ **Flexible Configuration** - All settings in one easy-to-edit section
+- 📦 **Zero Dependencies** - Uses only Python standard library
+- 🌍 **Cross-platform** - Windows, macOS, Linux compatible
 
 ## ⏱️ Impact: Before vs After
 
@@ -46,39 +66,15 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 | 💰 **Cost Impact**      | Developer time burned on cleanup          | **Automated, repeatable**             |
 | ☕ **Developer Time**   | Wasted on manual tasks                    | **Available for value-add work**      |
 
-## 🛠️ About The Tool
+## 💼 Use Cases
 
-This tool automatically categorizes and organizes files in **any folder** based on configurable size thresholds:
-
-**Default Organization:**
-- **Files ≥ 1GB** → `above 1GB` folder
-- **Files 1MB-1GB** → `1MB-1GB` folder
-- **Files < 1MB** → Remain in original location (untouched)
-
-> All thresholds are fully customizable to meet your team's needs.
-
-## 💼 Business Use Cases
-
-This automation tool is applicable across industries where teams manage large volumes of digital files:
+This automation tool is applicable across industries where individuals and teams manage large volumes of digital files:
 
 - :white_check_mark: **IT & Technology** – Managing logs, downloads, backups, and system storage directories  
 - :white_check_mark: **Data & Analytics** – Organizing datasets, exports, and large research files for easier access  
 - :white_check_mark: **Corporate & Office Environments** – Maintaining clean shared drives, project folders, and reporting assets  
 - :white_check_mark: **Creative & Media Industries** – Structuring large video, image, and production files for faster retrieval  
 - :white_check_mark: **General Productivity Users** – Keeping personal or shared folders organized while reducing digital clutter  
-
-## 🎨 Key Features
-
-The following key features highlight the tool’s core capabilities, usability, and reliability in organizing files efficiently across different IT environments.
-
-- 🎯 **Intelligent Categorization** - Automatically sorts by configurable size thresholds
-- 📊 **Real-time Analytics** - File type distribution, size statistics, processing metrics
-- 📝 **Comprehensive Logging** - Full audit trail with timestamps and operation details
-- 💬 **Interactive CLI** - User-friendly command-line interface
-- 🔍 **Dry-run Mode** - Preview all changes before execution (risk-free testing)
-- 🎛️ **Flexible Configuration** - All settings in one easy-to-edit section
-- 📦 **Zero Dependencies** - Uses only Python standard library
-- 🌍 **Cross-platform** - Windows, macOS, Linux compatible
 
 ## 📸 Proof of Results
 
