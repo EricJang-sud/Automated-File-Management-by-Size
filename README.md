@@ -9,6 +9,8 @@
 
 ## 🎯 The Problem
 
+A Python automation tool that instantly organizes your files into size-based folders, turning messy storage into a clean, structured system in seconds.
+
 You open your Downloads folder 📂: **3,247 files**. **89GB used** 💾. 
 
 Somewhere in there are the large video files 🎥 eating your storage, but finding them means **15 minutes of scrolling** ⏳. 
@@ -23,7 +25,7 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 
 ## ✨ The Solution
 
-⚡ **The Python automation tool solves it from hours to ~4 seconds.** This tool automatically categorizes and organizes files in **any folder** based on configurable size thresholds:
+The Python automation tool solves it **from hours to ~4 seconds.** This tool automatically categorizes and organizes files in **any folder** based on configurable size thresholds:
 
 **Default Organization:**
 - **Files ≥ 1GB** → `above 1GB` folder
