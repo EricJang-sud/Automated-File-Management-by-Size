@@ -1,7 +1,5 @@
 # Automated File Management System by Size
 
-A Python automation tool that organizes thousands of files by size in seconds, eliminating hours of manual work and reducing storage management overhead.
-
 <p align="center">
   <img src="assets/Before-After Gemini.png" width="700" alt="Before and After Comparison">
 </p>
@@ -18,10 +16,10 @@ Somewhere in there are the large video files 🎥 eating your storage, but findi
 Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, and second-guessing 🤔.
 
 **This is a common productivity drain across organizations:**
-- IT teams waste hours on storage cleanup
-- Developers lose time searching for large files
-- Project folders become unmanageable
-- Critical disk space issues go unnoticed until it's too late
+- IT teams waste hours on storage cleanup.
+- Developers lose time searching for large files.
+- Project folders become unmanageable.
+- Critical disk space issues go unnoticed until it's too late.
 
 ## ✨ The Solution
 
@@ -35,24 +33,24 @@ Manually sorting? **2+ hours** 😵‍💫 of dragging 🖱️, dropping 📥, a
 > All thresholds are fully customizable to meet you and your team's needs.
 
 ✅ **What it does:**
-- 📦 Large files are automatically organized into size-based folders
-- 📁 Small files stay exactly where they are (no unnecessary moves)
-- 📝 Every action is logged for a complete audit trail
-- 🔄 Includes rollback capability via backup manifests
-- 🔍 Preview mode lets you see changes before they happen
+- 📦 Large files are automatically organized into size-based folders.
+- 📁 Small files stay exactly where they are (no unnecessary moves).
+- 📝 Every action is logged for a complete audit trail.
+- 🔄 Includes rollback capability via backup manifests.
+- 🔍 Preview mode lets you see changes before they happen.
 
 **Key Features**
 
 The following key features highlight the tool’s core capabilities, usability, and reliability in organizing files efficiently across different IT environments.
 
-- 🎯 **Intelligent Categorization** - Automatically sorts by configurable size thresholds
-- 📊 **Real-time Analytics** - File type distribution, size statistics, processing metrics
-- 📝 **Comprehensive Logging** - Full audit trail with timestamps and operation details
-- 💬 **Interactive CLI** - User-friendly command-line interface
-- 🔍 **Dry-run Mode** - Preview all changes before execution (risk-free testing)
-- 🎛️ **Flexible Configuration** - All settings in one easy-to-edit section
-- 📦 **Zero Dependencies** - Uses only Python standard library
-- 🌍 **Cross-platform** - Windows, macOS, Linux compatible
+- 🎯 **Intelligent Categorization** - Automatically sorts by configurable size thresholds.
+- 📊 **Real-time Analytics** - File type distribution, size statistics, processing metrics.
+- 📝 **Comprehensive Logging** - Full audit trail with timestamps and operation details.
+- 💬 **Interactive CLI** - User-friendly command-line interface.
+- 🔍 **Dry-run Mode** - Preview all changes before execution (risk-free testing).
+- 🎛️ **Flexible Configuration** - All settings in one easy-to-edit section.
+- 📦 **Zero Dependencies** - Uses only Python standard library.
+- 🌍 **Cross-platform** - Windows, macOS, Linux compatible.
 
 ## ⏱️ Impact: Before vs After
 
@@ -70,11 +68,11 @@ The following key features highlight the tool’s core capabilities, usability, 
 
 This automation tool is applicable across industries where individuals and teams manage large volumes of digital files:
 
-- :white_check_mark: **IT & Technology** – Managing logs, downloads, backups, and system storage directories  
-- :white_check_mark: **Data & Analytics** – Organizing datasets, exports, and large research files for easier access  
-- :white_check_mark: **Corporate & Office Environments** – Maintaining clean shared drives, project folders, and reporting assets  
-- :white_check_mark: **Creative & Media Industries** – Structuring large video, image, and production files for faster retrieval  
-- :white_check_mark: **General Productivity Users** – Keeping personal or shared folders organized while reducing digital clutter  
+- 💻 **IT & Technology** – Managing logs, downloads, backups, and system storage directories.  
+- 📊 **Data & Analytics** – Organizing datasets, exports, and large research files for easier access.
+- 🏢 **Corporate & Office Environments** – Maintaining clean shared drives, project folders, and reporting assets.  
+- 🎬 **Creative & Media Industries** – Structuring large video, image, and production files for faster retrieval.  
+- 🗂️ **General Productivity Users** – Keeping personal or shared folders organized while reducing digital clutter.  
 
 ## 📸 Proof of Results
 
@@ -109,20 +107,20 @@ Downloads/
 ```
 
 **Result:** 
-- ✅ **7.5 GB** of large files immediately visible and organized
-- ✅ **3 folders** created automatically with clear naming
-- ✅ **3,244 small files** left undisturbed in original locations
-- ✅ **Complete log** of all operations saved
+- ✅ **7.5 GB** of large files immediately visible and organized.
+- ✅ **3 folders** created automatically with clear naming.
+- ✅ **3,244 small files** left undisturbed in original locations.
+- ✅ **Complete log** of all operations saved.
 
 ## 💡 Roles & Skills Demonstrated
 
 This project reflects practical skills relevant to data analytics, operations, and business-focused technical roles:
 
-- **Data handling & automation:** Built a solution that processes thousands of files efficiently and consistently  
-- **Problem solving:** Identified a common productivity issue and designed a scalable, repeatable solution  
-- **Analytical thinking:** Measured performance improvements and translated results into business impact metrics  
-- **Process improvement mindset:** Reduced manual work through automation and structured workflows  
-- **Documentation & communication:** Created clear, user-focused documentation for both technical and non-technical users  
+- ⚙️ **Data handling & automation:** Built a solution that processes thousands of files efficiently and consistently.  
+- 🧩 **Problem solving:** Identified a common productivity issue and designed a scalable, repeatable solution.  
+- 📈 **Analytical thinking:** Measured performance improvements and translated results into business impact metrics.  
+- 🔄 **Process improvement mindset:** Reduced manual work through automation and structured workflows.  
+- 📘 **Documentation & communication:** Created clear, user-focused documentation for both technical and non-technical users.  
 
 ## 🚀 Quick Start
 
