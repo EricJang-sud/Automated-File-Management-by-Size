@@ -118,12 +118,12 @@ Downloads/
 
 This project reflects practical skills relevant to data analytics, operations, and business-focused technical roles:
 
-- ⚙️ **Data handling & automation:** Built a solution that processes 1000+ of files efficiently and consistently.  
+- ⚙️ **Data handling & automation:** Reduced manual work by developing a solution that processes 1000+ of files efficiently and consistently.  
 - 🧩 **Problem solving:** Identified a common productivity issue and designed a scalable, repeatable solution.  
 - 📈 **Analytical thinking:** Measured performance improvements and translated results into business impact metrics.  
-- 🔄 **Process improvement mindset:** Reduced manual work through automation and structured workflows.  
+- 🏗️ **System Design & Architecture Thinking** – Designed a flexible, rule-based system that enables safe, scalable, and controlled data migration across diverse real-world scenarios.
 - 📘 **Documentation & communication:** Created clear, user-focused documentation for both technical and non-technical users.  
-- 👥 **Inclusive system design** Built a cross-platform solution designed for diverse users, ensuring compatibility across Windows, macOS, and Linux environments.
+- 👥 **Inclusive system design:** Built a cross-platform solution designed for diverse users, ensuring compatibility across Windows, macOS, and Linux environments.
 
 ## 🚀 Quick Start
 
